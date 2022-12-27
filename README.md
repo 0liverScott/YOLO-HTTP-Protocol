@@ -13,4 +13,3 @@ Google Drive:
 
 	https://drive.google.com/drive/folders/12dq40yEgMs0FP0Qs9Jgm8f371EWHVfMg?usp=sharing
     
-.
